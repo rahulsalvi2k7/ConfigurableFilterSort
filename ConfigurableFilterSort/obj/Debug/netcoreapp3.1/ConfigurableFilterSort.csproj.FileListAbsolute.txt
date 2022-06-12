@@ -1,0 +1,15 @@
+D:\Study\CSharp\ConfigurableFilterSort\ConfigurableFilterSort\bin\Debug\netcoreapp3.1\ConfigurableFilterSort.exe
+D:\Study\CSharp\ConfigurableFilterSort\ConfigurableFilterSort\bin\Debug\netcoreapp3.1\ConfigurableFilterSort.deps.json
+D:\Study\CSharp\ConfigurableFilterSort\ConfigurableFilterSort\bin\Debug\netcoreapp3.1\ConfigurableFilterSort.runtimeconfig.json
+D:\Study\CSharp\ConfigurableFilterSort\ConfigurableFilterSort\bin\Debug\netcoreapp3.1\ConfigurableFilterSort.runtimeconfig.dev.json
+D:\Study\CSharp\ConfigurableFilterSort\ConfigurableFilterSort\bin\Debug\netcoreapp3.1\ConfigurableFilterSort.dll
+D:\Study\CSharp\ConfigurableFilterSort\ConfigurableFilterSort\bin\Debug\netcoreapp3.1\ConfigurableFilterSort.pdb
+D:\Study\CSharp\ConfigurableFilterSort\ConfigurableFilterSort\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Study\CSharp\ConfigurableFilterSort\ConfigurableFilterSort\obj\Debug\netcoreapp3.1\ConfigurableFilterSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\CSharp\ConfigurableFilterSort\ConfigurableFilterSort\obj\Debug\netcoreapp3.1\ConfigurableFilterSort.AssemblyInfoInputs.cache
+D:\Study\CSharp\ConfigurableFilterSort\ConfigurableFilterSort\obj\Debug\netcoreapp3.1\ConfigurableFilterSort.AssemblyInfo.cs
+D:\Study\CSharp\ConfigurableFilterSort\ConfigurableFilterSort\obj\Debug\netcoreapp3.1\ConfigurableFilterSort.csproj.CoreCompileInputs.cache
+D:\Study\CSharp\ConfigurableFilterSort\ConfigurableFilterSort\obj\Debug\netcoreapp3.1\ConfigurableFilterSort.csproj.CopyComplete
+D:\Study\CSharp\ConfigurableFilterSort\ConfigurableFilterSort\obj\Debug\netcoreapp3.1\ConfigurableFilterSort.dll
+D:\Study\CSharp\ConfigurableFilterSort\ConfigurableFilterSort\obj\Debug\netcoreapp3.1\ConfigurableFilterSort.pdb
+D:\Study\CSharp\ConfigurableFilterSort\ConfigurableFilterSort\obj\Debug\netcoreapp3.1\ConfigurableFilterSort.genruntimeconfig.cache
